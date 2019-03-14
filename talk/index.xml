@@ -1,16 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Brian Mac Namee</title>
+    <title>Speaking Events on Brian Mac Namee</title>
     <link>https://brianmacnamee.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Brian Mac Namee</description>
+    <description>Recent content in Speaking Events on Brian Mac Namee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://brianmacnamee.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>That&#39;s Funny: Machine Learning for Anomaly Detection</title>
+      <link>https://brianmacnamee.github.io/talk/anomaly_dection_aib/</link>
+      <pubDate>Wed, 13 Feb 2019 14:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/talk/anomaly_dection_aib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show me your data, and I&#39;ll tell you who you are: an exploration of data-driven prediction</title>
+      <link>https://brianmacnamee.github.io/talk/show_me_your_data_dublin_data_summit/</link>
+      <pubDate>Mon, 31 Jul 2017 14:42:32 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_dublin_data_summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show me your data, and I&#39;ll tell you who you are</title>
+      <link>https://brianmacnamee.github.io/talk/show_me_your_data_limerick/</link>
+      <pubDate>Tue, 28 Mar 2017 14:54:22 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_limerick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show me your data, and I&#39;ll tell you who you are</title>
+      <link>https://brianmacnamee.github.io/talk/show_me_your_data_cork/</link>
+      <pubDate>Thu, 24 Nov 2016 14:54:22 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_cork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show me your data, and I&#39;ll tell you who you are</title>
+      <link>https://brianmacnamee.github.io/talk/show_me_your_data_derry/</link>
+      <pubDate>Thu, 22 Sep 2016 14:54:22 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_derry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show me your data, and I&#39;ll tell you who you are</title>
+      <link>https://brianmacnamee.github.io/talk/show_me_your_data_galway/</link>
+      <pubDate>Thu, 19 May 2016 14:54:22 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_galway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show me your data, and I&#39;ll tell you who you are</title>
+      <link>https://brianmacnamee.github.io/talk/show_me_your_data_dublin_ria/</link>
+      <pubDate>Tue, 01 Mar 2016 14:54:22 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_dublin_ria/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

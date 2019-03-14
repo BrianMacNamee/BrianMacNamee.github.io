@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Brian Mac Namee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://brianmacnamee.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -22,21 +22,33 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://brianmacnamee.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/home/about/</guid>
+      <description>&amp;ldquo;Show me your data and I&amp;rsquo;ll tell you who you are.&amp;rdquo;
+Dr. Brian Mac Namee is a research, speaker and writer on artificial intelligence and machine learning. Brian is a lecturer at the School of Computer Science in University College Dublin and director of Training at The Analytics Store, an Irish data analytics training and consultancy firm. Brian is the director of the Science Foundation Ireland Centre for Research Training in Machine Learning, and a funded investigator at the SFI Insight and VistaMilk centres.</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>https://brianmacnamee.github.io/home/speaking/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/home/speaking/</guid>
+      <description>Brian speaks across the world at events large and small, and audiences general and specialised.
+Brian McNamee of @insight_centre showing how great engagement is done #scienceirel #DataSummitDublin #BelieveInScience pic.twitter.com/ufAEdwXwgE
+&amp;mdash; Abigail Ruth Freeman (@abigailruthf) June 16, 2017   FMLPDA   Brian has published extensively in machine learning, predictive analytics, and information visualisation - a recent highlight is the textbook &amp;ldquo;Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples and Case Studies&amp;rdquo; published with MIT Press in 2015 (www.</description>
+    </item>
+    
+    <item>
       <title>Academic</title>
       <link>https://brianmacnamee.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
       <guid>https://brianmacnamee.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://brianmacnamee.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://brianmacnamee.github.io/home/about/</guid>
-      <description>Biography Dr. Brian Mac Namee received a BA (mod) and PhD in Computer Science from Trinity College Dublin in 2000 and 2004 respectively. After a period working in industry as an R &amp;amp; D software engineer for Agilent Technologies, Brian joined the School of Computing at Dublin Institute of Technology as a lecturer in 2005. At DIT Brian co-founded the Applied Intelligence Researcher Centre (www.ditairc.ie), and developed DIT&amp;rsquo;s successful MSc in Computing (Data Analytics) programme.</description>
     </item>
     
     <item>
@@ -58,12 +70,22 @@
     </item>
     
     <item>
-      <title>Selected Publications</title>
+      <title>Speaking</title>
+      <link>https://brianmacnamee.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/home/talks_selected/</guid>
+      <description>Brian speaks across the world at events large and small to audiences general and specialised. His talks are lively, engaging, and packed full of information that audiences can use immediately to understand and use their data as effectively as possible.
+  Details of some recent and upcoming talks are included below.</description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
       <link>https://brianmacnamee.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://brianmacnamee.github.io/home/publications_selected/</guid>
-      <description></description>
+      <description>Brian writes extensively on topics surrounding artificial intelligence and machine learning, ranging from technical explanations about how things work to broader societal topics about how we will leave in an ever more automated world. In 2015 Brian co-authored the textbook Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, worked Examples, and Case Studies published by MIT Press. This textbook is translated into 4 languages and widely adopted at top universities around the world.</description>
     </item>
     
     <item>
@@ -81,15 +103,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://brianmacnamee.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Talks</title>
-      <link>https://brianmacnamee.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://brianmacnamee.github.io/home/talks_selected/</guid>
       <description></description>
     </item>
     
