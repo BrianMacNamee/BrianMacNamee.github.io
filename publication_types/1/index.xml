@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Brian Mac Namee</title>
+    <link>https://brianmacnamee.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Brian Mac Namee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://brianmacnamee.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advanced Flight Efficiency Key Performance Indicators to support Air Traffic Analytics: Assessment of European flight efficiency using ADS-B data</title>
+      <link>https://brianmacnamee.github.io/publication/leones-2018-advanced/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/leones-2018-advanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROGER: An On-Line Flight Efficiency Monitoring System using ADS-B Data</title>
+      <link>https://brianmacnamee.github.io/publication/wang-2018-roger/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/wang-2018-roger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scoped: Evaluating A Composite Visualisation of the Scope Chain Hierarchy Within Source Code</title>
+      <link>https://brianmacnamee.github.io/publication/bacher-2018-scoped/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/bacher-2018-scoped/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Code Mini-Map Visualisation: Encoding Conceptual Structures Within Source Code</title>
+      <link>https://brianmacnamee.github.io/publication/bacher-2018-code/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/bacher-2018-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating citywide bus service reliability using noisy GPS data</title>
+      <link>https://brianmacnamee.github.io/publication/wang-2017-evaluating/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/wang-2017-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending Jensen Shannon Divergence to Compare Multiple Corpora.</title>
+      <link>https://brianmacnamee.github.io/publication/lu-2017-extending/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/lu-2017-extending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked-MLkNN: a stacking based improvement to multi-label k-nearest neighbours</title>
+      <link>https://brianmacnamee.github.io/publication/pakrashi-2017-stacked/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/pakrashi-2017-stacked/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Dataset Generation for Online Topic Modeling.</title>
+      <link>https://brianmacnamee.github.io/publication/belford-2017-synthetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/belford-2017-synthetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Open Data Driven Epidemiological Agent-Based Model for Irish Towns.</title>
+      <link>https://brianmacnamee.github.io/publication/hunter-2016-open/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/hunter-2016-open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking multi-label classification algorithms</title>
+      <link>https://brianmacnamee.github.io/publication/pakrashi-2016-benchmarking/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/pakrashi-2016-benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble topic modeling via matrix factorization</title>
+      <link>https://brianmacnamee.github.io/publication/belford-2016-ensemble/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/belford-2016-ensemble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowing What You Don’t Know: Choosing the Right Chart to Show Data Distributions to Non-Expert Users</title>
+      <link>https://brianmacnamee.github.io/publication/zubiaga-2015-knowing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/zubiaga-2015-knowing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NudgeAlong: A Case Based Approach to Changing User Behaviour</title>
+      <link>https://brianmacnamee.github.io/publication/o-2014-nudgealong/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/o-2014-nudgealong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expecting the unexpected: Measure the uncertainties for mobile robot path planning in dynamic environment</title>
+      <link>https://brianmacnamee.github.io/publication/li-2013-expecting/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/li-2013-expecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A corpus based dialogue model for grounding in situated dialogue</title>
+      <link>https://brianmacnamee.github.io/publication/schuette-2012-corpus/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/schuette-2012-corpus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation into Feature Selection for Oncological Survival Prediction</title>
+      <link>https://brianmacnamee.github.io/publication/strunkin-2012-investigation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/strunkin-2012-investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Estimation of Rater Reliability in Subjective Tasks Using Multi-Armed Bandits</title>
+      <link>https://brianmacnamee.github.io/publication/tarasov-2012-dynamic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/tarasov-2012-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The turning, stretching and boxing technique: A step in the right direction</title>
+      <link>https://brianmacnamee.github.io/publication/dunne-2012-turning/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/dunne-2012-turning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility study of utility-directed behaviour for computer game agents</title>
+      <link>https://brianmacnamee.github.io/publication/sloan-2011-feasibility/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/sloan-2011-feasibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feeling the ambiance: using smart ambiance to increase contextual awareness in game agents</title>
+      <link>https://brianmacnamee.github.io/publication/sloan-2011-feeling/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/sloan-2011-feeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cbtv: Visualising case bases for similarity measure design and selection</title>
+      <link>https://brianmacnamee.github.io/publication/mac-2010-cbtv/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/mac-2010-cbtv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EGAL: Exploration guided active learning for TCBR</title>
+      <link>https://brianmacnamee.github.io/publication/hu-2010-egal/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/hu-2010-egal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off to a good start: Using clustering to select the initial training set in active learning</title>
+      <link>https://brianmacnamee.github.io/publication/hu-2010-off/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/hu-2010-off/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable multi-modal avatar interface for multi-user environments</title>
+      <link>https://brianmacnamee.github.io/publication/dunne-2010-scalable/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/dunne-2010-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Situating spatial templates for human-robot interaction</title>
+      <link>https://brianmacnamee.github.io/publication/kelleher-2010-situating/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/kelleher-2010-situating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tsb technique: Increasing a user’s sense of immersion with intelligent virtual agents</title>
+      <link>https://brianmacnamee.github.io/publication/dunne-2010-tsb/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/dunne-2010-tsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual salience and reference resolution in situated dialogues: A corpus-based evaluation</title>
+      <link>https://brianmacnamee.github.io/publication/schutte-2010-visual/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/schutte-2010-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mobile multimodal dialogue system for location based services</title>
+      <link>https://brianmacnamee.github.io/publication/schutte-2009-mobile/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/schutte-2009-mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-disciplinary approaches for developing serious games in Higher Education</title>
+      <link>https://brianmacnamee.github.io/publication/rooney-2009-cross/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/rooney-2009-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forked! A demonstration of physics realism in augmented reality</title>
+      <link>https://brianmacnamee.github.io/publication/beaney-2009-forked/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/beaney-2009-forked/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just say it: an evaluation of speech interfaces for augmented reality design applications</title>
+      <link>https://brianmacnamee.github.io/publication/hanlon-2009-just/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/hanlon-2009-just/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning without default: A study of one-class classification and the low-default portfolio problem</title>
+      <link>https://brianmacnamee.github.io/publication/kennedy-2009-learning/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/kennedy-2009-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling with confidence: Using k-nn confidence measures in active learning</title>
+      <link>https://brianmacnamee.github.io/publication/hu-2009-sampling/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/hu-2009-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Widening the evaluation net</title>
+      <link>https://brianmacnamee.github.io/publication/mac-2009-widening/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/mac-2009-widening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Referring expression generation challenge 2008 DIT system descriptions</title>
+      <link>https://brianmacnamee.github.io/publication/kelleher-2008-referring/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/kelleher-2008-referring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interface design requirements for playing pong with a single switch device</title>
+      <link>https://brianmacnamee.github.io/publication/gilligan-2006-interface/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/gilligan-2006-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating virtual humans across diverse situations</title>
+      <link>https://brianmacnamee.github.io/publication/mac-2003-simulating/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/mac-2003-simulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Levels of detail for crowds and groups</title>
+      <link>https://brianmacnamee.github.io/publication/o-2002-levels/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/o-2002-levels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Men behaving appropriately: Integrating the role passing technique into the aloha system</title>
+      <link>https://brianmacnamee.github.io/publication/macnamee-2002-men/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/macnamee-2002-men/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

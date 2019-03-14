@@ -20,56 +20,128 @@
     </item>
     
     <item>
-      <title>Show me your data, and I&#39;ll tell you who you are: an exploration of data-driven prediction</title>
-      <link>https://brianmacnamee.github.io/talk/show_me_your_data_dublin_data_summit/</link>
-      <pubDate>Mon, 31 Jul 2017 14:42:32 +0000</pubDate>
+      <title>An open-data-driven agent-based model to simulate infectious disease outbreaks (vol 13, e0208775, 2018)</title>
+      <link>https://brianmacnamee.github.io/publication/hunter-2019-open/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_dublin_data_summit/</guid>
+      <guid>https://brianmacnamee.github.io/publication/hunter-2019-open/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Show me your data, and I&#39;ll tell you who you are</title>
-      <link>https://brianmacnamee.github.io/talk/show_me_your_data_limerick/</link>
-      <pubDate>Tue, 28 Mar 2017 14:54:22 +0000</pubDate>
+      <title>Correction: An open-data-driven agent-based model to simulate infectious disease outbreaks</title>
+      <link>https://brianmacnamee.github.io/publication/hunter-2019-correction/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_limerick/</guid>
+      <guid>https://brianmacnamee.github.io/publication/hunter-2019-correction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Show me your data, and I&#39;ll tell you who you are</title>
-      <link>https://brianmacnamee.github.io/talk/show_me_your_data_cork/</link>
-      <pubDate>Thu, 24 Nov 2016 14:54:22 +0000</pubDate>
+      <title>Kalman Filter-based Heuristic Ensemble (KFHE): A New Perspective on Multi-class Ensemble Classification Using Kalman Filters</title>
+      <link>https://brianmacnamee.github.io/publication/pakrashi-2019-kalman/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_cork/</guid>
+      <guid>https://brianmacnamee.github.io/publication/pakrashi-2019-kalman/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Show me your data, and I&#39;ll tell you who you are</title>
-      <link>https://brianmacnamee.github.io/talk/show_me_your_data_derry/</link>
-      <pubDate>Thu, 22 Sep 2016 14:54:22 +0000</pubDate>
+      <title>A Comparison of Agent-Based Models and Equation Based Models for Infectious Disease Epidemiology</title>
+      <link>https://brianmacnamee.github.io/publication/hunter-2018-comparison/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_derry/</guid>
+      <guid>https://brianmacnamee.github.io/publication/hunter-2018-comparison/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Show me your data, and I&#39;ll tell you who you are</title>
-      <link>https://brianmacnamee.github.io/talk/show_me_your_data_galway/</link>
-      <pubDate>Thu, 19 May 2016 14:54:22 +0000</pubDate>
+      <title>Advanced Flight Efficiency Key Performance Indicators to support Air Traffic Analytics: Assessment of European flight efficiency using ADS-B data</title>
+      <link>https://brianmacnamee.github.io/publication/leones-2018-advanced/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_galway/</guid>
+      <guid>https://brianmacnamee.github.io/publication/leones-2018-advanced/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Show me your data, and I&#39;ll tell you who you are</title>
-      <link>https://brianmacnamee.github.io/talk/show_me_your_data_dublin_ria/</link>
-      <pubDate>Tue, 01 Mar 2016 14:54:22 +0000</pubDate>
+      <title>An open-data-driven agent-based model to simulate infectious disease outbreaks</title>
+      <link>https://brianmacnamee.github.io/publication/hunter-2018-open/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://brianmacnamee.github.io/talk/show_me_your_data_dublin_ria/</guid>
+      <guid>https://brianmacnamee.github.io/publication/hunter-2018-open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning at the shallow end: Malware classification for non-domain experts</title>
+      <link>https://brianmacnamee.github.io/publication/le-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/le-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MeetupNet Dublin: Discovering Communities in Dublin&#39;s Meetup Network</title>
+      <link>https://brianmacnamee.github.io/publication/pakrashi-2018-meetupnet/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/pakrashi-2018-meetupnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROGER: An On-Line Flight Efficiency Monitoring System using ADS-B Data</title>
+      <link>https://brianmacnamee.github.io/publication/wang-2018-roger/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/wang-2018-roger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial Basis Function Data Descriptor (RBFDD) Network: An Anomaly Detection Approach</title>
+      <link>https://brianmacnamee.github.io/publication/bazargani-2018-radial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/bazargani-2018-radial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scoped: Evaluating A Composite Visualisation of the Scope Chain Hierarchy Within Source Code</title>
+      <link>https://brianmacnamee.github.io/publication/bacher-2018-scoped/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/bacher-2018-scoped/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of topic modeling via matrix factorization</title>
+      <link>https://brianmacnamee.github.io/publication/belford-2018-stability/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/belford-2018-stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Code Mini-Map Visualisation: Encoding Conceptual Structures Within Source Code</title>
+      <link>https://brianmacnamee.github.io/publication/bacher-2018-code/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/bacher-2018-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using a Socioeconomic Segregation Burn-in Model to Initialise an Agent-Based Model for Infectious Diseases.</title>
+      <link>https://brianmacnamee.github.io/publication/hunter-2018-using/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/hunter-2018-using/</guid>
       <description></description>
     </item>
     

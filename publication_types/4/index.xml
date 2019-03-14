@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Brian Mac Namee</title>
+    <link>https://brianmacnamee.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Brian Mac Namee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://brianmacnamee.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Proposed Pathogen Classification System</title>
+      <link>https://brianmacnamee.github.io/publication/ferris-2012-proposed/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/ferris-2012-proposed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proposal for an agent architecture for proactive persistent non player characters</title>
+      <link>https://brianmacnamee.github.io/publication/mac-2001-proposal/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/mac-2001-proposal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research directions for AI in computer games</title>
+      <link>https://brianmacnamee.github.io/publication/fairclough-2001-research/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brianmacnamee.github.io/publication/fairclough-2001-research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
